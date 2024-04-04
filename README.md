@@ -5,11 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/shakibul5362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://twitter.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shakib536262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://instagram.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://codepen.io/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQo3gCX-N74rMYBJFcH1FgQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
 
 
 </p>

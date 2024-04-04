@@ -12,4 +12,18 @@
 
 </p>
 <h3 align="center">Full Stack Web Developer Form Bangladesh</h3>
-![👑 I am Web Developer](https://media.licdn.com/dms/image/D5622AQGQqSaNxMCC5Q/feedshare-shrink_1280/0/1712228178433?e=1715212800&v=beta&t=6zf0wRSZPK9IHpy9YszjgxjdfjYWD6qfsPCY1WqGVyU)
+👋 Hello! I'm a passionate and experienced full stack web developer proficient in a range of technologies, including HTML, CSS, JavaScript, Bootstrap, WordPress for frontend development, and PHP and Laravel for backend development.
+
+🖥️ My skills in HTML ensure the structural integrity and semantic markup of web pages, while CSS allows me to create visually appealing and responsive user interfaces. JavaScript empowers me to add interactivity and dynamic features, enhancing user experience and functionality. I leverage Bootstrap's responsive grid system and comprehensive CSS library to streamline frontend development.
+
+💡 On the backend, I am well-versed in PHP, a versatile scripting language widely used for web development. Additionally, my proficiency in Laravel, a powerful PHP framework, enables me to handle server-side logic, database management, and API integration efficiently.
+
+🌐 I also have expertise in WordPress, utilizing its content management system capabilities to create dynamic and customizable websites efficiently. I can leverage its vast ecosystem of themes, plugins, and extensions to extend functionality and tailor websites to specific requirements.
+
+🚀 As a full stack developer, I possess the ability to seamlessly work across both the frontend and backend, ensuring a cohesive and integrated development process. I'm dedicated to creating visually appealing, user-friendly interfaces while implementing complex business logic and delivering efficient and scalable web applications.
+
+🔧 I'm always eager to learn new technologies and stay up-to-date with industry trends. I thrive in collaborative environments, working alongside teams or clients to achieve their web development goals.
+
+📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me and explore my GitHub repositories.
+
+<br>

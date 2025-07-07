@@ -1,43 +1,81 @@
-![👑 I am Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHaCdOJi0bfiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712224770303?e=1757548800&v=beta&t=W538sCZQH5QrnArM8sqy403BhMZz7fhLOj1m2CRI9q4)
-
 <table>
   <tr>
-    <td align="left" width="60%">
+    <td width="60%">
       <h1>Shakibul<br/>Islam</h1>
       <h3>Full Stack Web Developer</h3>
       <p>
-        I am Shakibul Islam, a dedicated and detail-oriented full stack web developer with a passion for building dynamic, user-friendly web applications.
-        With expertise in both front-end and back-end technologies, I strive to create efficient, maintainable, and scalable systems.
+        I am Shakibul Islam, a dedicated and detail-oriented full stack web developer with a passion for building dynamic, user-friendly web applications. With expertise in both front-end and back-end development, I specialize in creating seamless user experiences and scalable backend systems.
+      </p>
+      <p>
+        💻 Skilled in: HTML, CSS, JavaScript, Vue.js, PHP, Laravel, Inertia.js, MySQL  
+        📦 Tools: Git, VS Code, Laragon, Postman, CyberPanel  
+        🌍 Location: Dhaka, Bangladesh  
+        📧 Email: diu.shakib@gmail.com  
+        📞 Phone: +880 178 480 1663  
+        🔗 <a href="https://github.com/shakib53626" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/shakibul-islam-701152279/" target="_blank">LinkedIn</a>
       </p>
     </td>
-    <td align="center" width="40%">
-      <img src="https://media.licdn.com/dms/image/v2/D5603AQEoBAWuD3rLGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712225006044?e=1757548800&v=beta&t=tXhDdNBnKiIz8mc8l_EuFIePzu8Hf5GNdUT5QwTqWJQ" width="200" height="200" style="border-radius: 10px;" alt="Shakibul Islam"/>
+    <td width="40%" align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQEoBAWuD3rLGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712225006044?e=1757548800&v=beta&t=tXhDdNBnKiIz8mc8l_EuFIePzu8Hf5GNdUT5QwTqWJQ" width="200" height="200" alt="Shakibul Islam" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/shakibul5362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shakib536262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQo3gCX-N74rMYBJFcH1FgQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
+---
 
+## 💼 Experience
 
-</p>
-<h3 align="center">Full Stack Web Developer Form Bangladesh</h3>
-👋 Hello! I'm a passionate and experienced full stack web developer proficient in a range of technologies, including HTML, CSS, JavaScript, Bootstrap, WordPress for frontend development, and PHP and Laravel for backend development.
+**Full Stack Developer – Service Key**  
+<small>May 2023 – Present</small>  
+- Developed and maintained eCommerce, healthcare, and inventory management systems  
+- Built 8+ real-world projects using Laravel, Vue.js, and MySQL/PostgreSQL  
+- Deployed and managed projects with CPanel, CyberPanel, Cloudflare  
+- Integrated REST APIs and built scalable backend solutions
 
-🖥️ My skills in HTML ensure the structural integrity and semantic markup of web pages, while CSS allows me to create visually appealing and responsive user interfaces. JavaScript empowers me to add interactivity and dynamic features, enhancing user experience and functionality. I leverage Bootstrap's responsive grid system and comprehensive CSS library to streamline frontend development.
+**Intern (PHP Laravel) – Service Key**  
+<small>Mar 2023 – May 2023</small>
 
-💡 On the backend, I am well-versed in PHP, a versatile scripting language widely used for web development. Additionally, my proficiency in Laravel, a powerful PHP framework, enables me to handle server-side logic, database management, and API integration efficiently.
+---
 
-🌐 I also have expertise in WordPress, utilizing its content management system capabilities to create dynamic and customizable websites efficiently. I can leverage its vast ecosystem of themes, plugins, and extensions to extend functionality and tailor websites to specific requirements.
+## 📚 Education
 
-🚀 As a full stack developer, I possess the ability to seamlessly work across both the frontend and backend, ensuring a cohesive and integrated development process. I'm dedicated to creating visually appealing, user-friendly interfaces while implementing complex business logic and delivering efficient and scalable web applications.
+- **Diploma in Civil Engineering**, Technical & Vocational Education Institute  
+- **Full Stack Web Development**, Shikhbe Shobai
 
-🔧 I'm always eager to learn new technologies and stay up-to-date with industry trends. I thrive in collaborative environments, working alongside teams or clients to achieve their web development goals.
+---
 
-📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me and explore my GitHub repositories.
+## 🚀 Projects
 
-<br>
+| Project | URL | Tech Stack |
+|--------|-----|------------|
+| Ekushe Mart | [ekushemart.com](https://ekushemart.com) | Laravel, Vue.js |
+| Nafseen | [nafseen.com](https://nafseen.com) | Laravel, Vue.js |
+| Pos N Pack | [posnpack.com](https://frontend.posnpack.com) | Laravel, Vue.js |
+| Glossit | [glossit.com.bd](https://glossit.com.bd) | Laravel, Vue.js |
+| Home Stay Care | [home-staycare.co.uk](https://home-staycare.co.uk) | Laravel, Vue.js |
+| Spark Event Solution | [sparkmanagement.co.uk](https://sparkmanagement.co.uk) | Laravel, Vue.js |
+
+---
+
+## 🛠 Tools I Use
+
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=laravel)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-green?logo=vue.js)
+![Postman](https://img.shields.io/badge/Tool-Postman-orange?logo=postman)
+![Git](https://img.shields.io/badge/VersionControl-Git-black?logo=git)
+![Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind-blue?logo=tailwindcss)
+
+---
+
+## 📞 Contact
+
+- **📍 Address:** 501/1 North Kazipara, Mirpur, Dhaka-1216  
+- **📧 Email:** diu.shakib@gmail.com  
+- **📞 Phone:** +880 178 480 1663  
+- **🌐 Portfolio:** [GitHub Profile](https://github.com/shakib53626)
+
+---
+
+> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+

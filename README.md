@@ -28,7 +28,7 @@
 **Full Stack Developer – Service Key**  
 <small>May 2023 – Present</small>  
 - Developed and maintained eCommerce, healthcare, and inventory management systems  
-- Built 8+ real-world projects using Laravel, Vue.js, and MySQL/PostgreSQL  
+- Built 12+ real-world projects using Laravel, Vue.js, and MySQL/PostgreSQL  
 - Deployed and managed projects with CPanel, CyberPanel, Cloudflare  
 - Integrated REST APIs and built scalable backend solutions
 

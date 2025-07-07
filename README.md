@@ -8,7 +8,7 @@
       </p>
       <p>
         💻 Skilled in: HTML, CSS, JavaScript, Vue.js, PHP, Laravel, Inertia.js, MySQL  
-        📦 Tools: Git, VS Code, Laragon, Postman, CyberPanel  
+        📦 Tools: Git, VS Code, Laragon, Postman, CyberPanel, XAMPP
         🌍 Location: Dhaka, Bangladesh  
         📧 Email: diu.shakib@gmail.com  
         📞 Phone: +880 178 480 1663  

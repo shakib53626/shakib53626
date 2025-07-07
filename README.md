@@ -1,10 +1,21 @@
 ![👑 I am Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHaCdOJi0bfiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712224770303?e=1757548800&v=beta&t=W538sCZQH5QrnArM8sqy403BhMZz7fhLOj1m2CRI9q4)
 
-<div>
-  <h1 align="left">Shakibul <br/> Islam</h1>
-  <p aligh=left>Full Stack Developer</p>
-  <img align="right" src="https://media.licdn.com/dms/image/v2/D5603AQEoBAWuD3rLGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712225006044?e=1757548800&v=beta&t=tXhDdNBnKiIz8mc8l_EuFIePzu8Hf5GNdUT5QwTqWJQ" width="200" height="200"/>
-</div>
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <h1>Shakibul<br/>Islam</h1>
+      <h3>Full Stack Web Developer</h3>
+      <p>
+        I am Shakibul Islam, a dedicated and detail-oriented full stack web developer with a passion for building dynamic, user-friendly web applications.
+        With expertise in both front-end and back-end technologies, I strive to create efficient, maintainable, and scalable systems.
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQEoBAWuD3rLGw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712225006044?e=1757548800&v=beta&t=tXhDdNBnKiIz8mc8l_EuFIePzu8Hf5GNdUT5QwTqWJQ" width="200" height="200" style="border-radius: 10px;" alt="Shakibul Islam"/>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/shakibul5362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>

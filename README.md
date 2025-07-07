@@ -75,7 +75,4 @@
 - **📞 Phone:** +880 178 480 1663  
 - **🌐 Portfolio:** [GitHub Profile](https://github.com/shakib53626)
 
----
-
-> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 

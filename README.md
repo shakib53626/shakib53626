@@ -7,7 +7,7 @@
         I am Shakibul Islam, a dedicated and detail-oriented full stack web developer with a passion for building dynamic, user-friendly web applications. With expertise in both front-end and back-end development, I specialize in creating seamless user experiences and scalable backend systems.
       </p>
       <p>
-        💻 Skilled in: HTML, CSS, JavaScript, Vue.js, PHP, Laravel, Inertia.js, MySQL  
+        💻 Skilled in: HTML, CSS, JavaScript, Vue.js, React.js, PHP, Laravel, Inertia.js, MySQL  
         📦 Tools: Git, VS Code, Laragon, Postman, CyberPanel, XAMPP
         🌍 Location: Dhaka, Bangladesh  
         📧 Email: diu.shakib@gmail.com  
